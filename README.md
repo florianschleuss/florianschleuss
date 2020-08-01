@@ -1,19 +1,13 @@
-### Hi there, I'm [Flo][email]
+## Hi there, I'm [Flo][email]
 
-## I'm a Student, Developer, and Maniac!
+### I'm a Student, Developer, and Maniac!
 - 💾 I’m mostly working on an home-automation/smart-home app
 - 📚 I’m currently learning flutter and blockchain theory
 - 🎶 I love to listen to music from the 60's - 90's and classical music
 - ⚡ Fun fact: I love to dance and play piano / guitar
 
-### Connect with me:
-
-[<img align="left" alt="FlorianSchleuss | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="florianschleuss | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-[<img align="left" alt="Florian Schleuß | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="florianschleuss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ### Languages and Tools:
 
@@ -28,11 +22,24 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="FlorianSchleuss | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="florianschleuss | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="Florian Schleuß | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="florianschleuss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 <br />
 
-[![florianschleuss's github stats](https://github-readme-stats.vercel.app/api?username=florianschleuss&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/florianschleuss/github-readme-stats)
+### florianschleuss's github stats
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florianschleuss&layout=compact)](https://github.com/florianschleuss/github-readme-stats)
+[![florianschleuss's github stats](https://github-readme-stats.vercel.app/api?username=florianschleuss&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/florianschleuss/github-readme-stats)
+
+### Most used languages
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florianschleuss&layout=compact&hide_title=true)](https://github.com/florianschleuss/github-readme-stats)
 
 
 [email]: mailto:florian.schleuss@outlook.com?subject=GitHub-Profile-Mail
