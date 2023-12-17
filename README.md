@@ -2,7 +2,7 @@
 
 ### I'm a Student, Developer and Maniac!
 - 💾 I’m mostly working on an home-automation/smart-home app
-- 📚 I’m currently learning flutter and blockchain theory
+- 📚 I’m currently learning advanced python development and network technology
 - 🎶 I love to listen to music from the 60's - 90's and classical music
 - ⚡ Fun fact: I love to dance and play piano / guitar
 
